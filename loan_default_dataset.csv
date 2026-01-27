@@ -1,4 +1,4 @@
-Age,AnnualIncome_lakhs,CreditScore,LoanAmount_lakhs,LoanTerm_years,EmploymentType,LoanDefault
+Age,AnnualIncome_lakhs,CreditScore,LoanAmount_lakhs,LoanTerm_years,EmploymentType,Loan(yes/no)
 28,6.5,720,5,5,Salaried,0
 45,12.0,680,10,10,Self-Employed,1
 35,8.0,750,6,7,Salaried,0
